@@ -1,3 +1,4 @@
+-- the data link is https://www.kaggle.com/datasets/maramsa/e-commerce-sales-and-customer-analytics-dataset?resource=download
 use customer_analysis_joins
 select * from customers;
 select * from order_items;
