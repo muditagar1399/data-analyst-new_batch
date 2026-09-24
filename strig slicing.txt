@@ -1,0 +1,59 @@
+easy to way remember
+
+start
+end
+step
+
+start- where to start
+end- where to stop
+step - how many steps to jump
+
+name =python 
+
+character p y t h o n
+index     0 1 2 3 4 5 
+indexinf start 0 
+
+print(1:4)
+ y-1 
+t-2
+h-3
+
+yth - end is never included 
+
+archit 
+1:4
+
+a r c h i t
+0 1 2 3 4 5
+print(1:4)
+rch
+
+steps 
+
+python 
+
+
+p y t h o n 
+0 1 2 3 4 5
+print(0:6:2)
+we know string will stop before 6 so thats we have 6
+
+step 2 - we jump to every 2 positon 
+
+p       t      o 
+
+archit 
+
+
+2 
+
+1:4:2
+
+a       r    c    h      i        t
+0        1     2   3       4       5
+
+r c h 
+
+
+
